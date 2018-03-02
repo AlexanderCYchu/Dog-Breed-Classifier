@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
+[image2]: ./images/hello_dog.png "hello_dog"
 
 
 
@@ -11,4 +12,8 @@ The [dog_app.ipynb](https://github.com/AlexanderCYchu/Dog-Breed-Classifier/blob/
 
 ![Sample Output][image1]
 
+### This is my output
+![Sample Output][image1]
+
+### reproduce output
 For detail instrutions to reproduce the output, please see the [udacity Repository](https://github.com/udacity/dog-project).
