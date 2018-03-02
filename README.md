@@ -15,5 +15,5 @@ The [dog_app.ipynb](https://github.com/AlexanderCYchu/Dog-Breed-Classifier/blob/
 ### This is my output
 ![hello_dog][image2]
 
-### reproduce output
+### Reproduce output
 For detail instrutions to reproduce the output, please see the [udacity Repository](https://github.com/udacity/dog-project).
